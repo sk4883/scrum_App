@@ -1,0 +1,23 @@
+.user-box{
+	padding: 10px;
+}
+.password-box{
+	padding: 10px;
+}
+.textbox-data{
+	width: 50%;
+	height: 40px;
+	padding-left: 10px;
+
+}
+.button-group-login{
+	padding: 10px;
+}
+.button-design{
+	height: 50px;
+	cursor: pointer;
+}
+.warning-message{
+	color: red;
+	font-size: 14px;
+}

@@ -1,0 +1,26 @@
+.team-member-card{
+	border: 1px solid #000;
+	padding-bottom: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
+.card-title-member{
+	    border-bottom: 1px solid #000;
+    text-transform: capitalize;
+    color: #fff;
+    background: #000;
+}
+.team-title-member{
+	text-transform: capitalize;
+	font-size: 20px;
+}
+.vertical-line{
+  width: 0px; 
+  height: 100%;
+  float: left; 
+  border: 1px inset;
+}
+.textArea-design{
+	width: 100%;
+	resize: none;
+}
